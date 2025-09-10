@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="1.75" last-seen="1757541039"/>
+    <application id="org.gnome.Tour.desktop" score="0.001953125" last-seen="1757508719"/>
+    <application id="org.gnome.Ptyxis.desktop" score="342.431640625" last-seen="1757541217"/>
+    <application id="org.gnome.Software.desktop" score="0.5" last-seen="1757489370"/>
+    <application id="org.mozilla.firefox.desktop" score="599201.0927734375" last-seen="1757541210"/>
+    <application id="org.gnome.Nautilus.desktop" score="49.375" last-seen="1757541199"/>
+    <application id="org.gnome.Settings.desktop" score="2.189453125" last-seen="1757489328"/>
+  </context>
+</application-state>

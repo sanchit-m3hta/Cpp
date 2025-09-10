@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shallow/Generic_Safety_and_Compliance_Notices.pdf" added="2025-09-10T07:03:24.975610Z" modified="2025-09-10T21:50:32.949704Z" visited="2025-09-10T07:03:24.975612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;org.gnome.Evince %u&apos;" modified="2025-09-10T21:50:32.949701Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2025-09-10T21:50:32.535136Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shallow/Lenovo_Limited_Warranty.pdf" added="2025-09-10T07:03:31.698944Z" modified="2025-09-10T07:03:31.698948Z" visited="2025-09-10T07:03:31.698945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-09-10T07:03:31.698946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shallow/Software_Product_License_Agreement.pdf" added="2025-09-10T07:03:54.461098Z" modified="2025-09-10T07:03:54.461102Z" visited="2025-09-10T07:03:54.461099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2025-09-10T07:03:54.461100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/shallow/SANCHIT/Fedora_backup" added="2025-09-10T21:13:22.779869Z" modified="2025-09-10T21:13:22.779882Z" visited="2025-09-10T21:13:22.779871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-10T21:13:22.779875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
